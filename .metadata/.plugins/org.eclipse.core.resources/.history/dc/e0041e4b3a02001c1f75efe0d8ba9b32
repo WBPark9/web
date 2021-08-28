@@ -1,0 +1,18 @@
+package user;
+
+import java.security.MessageDigest;
+import java.security.NoSuchAlgorithmException;
+
+public class test {
+	
+	public static void main(String[] args) throws NoSuchAlgorithmException {
+		SHA256 sha256 = new SHA256();
+		
+		String password = "1a2b3c4d";
+		
+		String passwordsha = sha256.encrypt(password);
+		
+		System.out.println(passwordsha);
+	}
+	
+}

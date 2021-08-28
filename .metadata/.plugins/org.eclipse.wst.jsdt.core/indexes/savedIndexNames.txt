@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\cafe2019\Desktop\Project\new\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2393027609.index
+887260776.index
+3558212379.index
+1918552229.index
+3558212379.index
+2910245717.index
+3912795968.index
+3980089196.index
